@@ -281,16 +281,3 @@ New Mexico State University
 * **GitHub:** [boriskiefer](https://github.com/boriskiefer)
 * **LinkedIn:** [Boris Kiefer](https://www.linkedin.com/in/boris-kiefer-85089831/)
 
----
-
-## Suggested top-of-repo companion items
-
-A strong presentation package for this repository is:
-
-1. this `README.md`
-2. the notebook
-3. a screenshot or heatmap in `figures/`
-4. the **Technical Brief**
-5. the **Implementation Brief**
-
-That set creates a compact but credible technical artifact package.
